@@ -11,7 +11,7 @@
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 	</properties>	
-	<build>
+<!-- 	<build>
 	    <plugins>
 	        <plugin>
 	            <artifactId>maven-compiler-plugin</artifactId>
@@ -21,7 +21,7 @@
 	                <target>1.8</target>
 	            </configuration>
 	        </plugin>
-	    </plugins>
+	    </plugins> -->
 	</build>
 	<dependencies>
 		<dependency>
